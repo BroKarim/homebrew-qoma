@@ -1,8 +1,8 @@
 cask "qoma" do
-  version "1.0.0"
-  sha256 "edf527470aac94c63cfcbb74a245ba2068ee619e697ee71e03b835f2b02e3ff7"
+  version "1.1.0"
+  sha256 "81a57addedea13181f7a923a4bab57c1b3d4d2dadea898c7da03db2921910fb8"
 
-  url "https://github.com/BroKarim/qoma/releases/download/v#{version}/Qoma-#{version}-universal.dmg"
+  url "https://github.com/BroKarim/qoma/releases/download/v#{version}/qoma-#{version}-mac-universal.dmg"
   name "Qoma"
   desc "Minimal pomodoro timer"
   homepage "https://dzenn.app"
